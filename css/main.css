@@ -54,6 +54,7 @@ html{
     margin: auto;
 }
 
+/* css start body*/
 body {
     font-family: Arial, Helvetica, sans-serif;
     color: #222;
@@ -66,6 +67,10 @@ body {
     padding: 15px;
 }
 
+
+
+
+/* css grid start */
 .emojis {
     display: grid;
     grid-template-columns: 2fr 2fr;
